@@ -2,7 +2,8 @@ import streamlit as st
 from dotenv import load_dotenv
 from PyPDF2 import PdfReader
 from langchain.text_splitter import CharacterTextSplitter
-from langchain_openai.embeddings import OpenAIEmbeddings, HuggingFaceInstructEmbeddings
+from langchain_openai.embeddings import OpenAIEmbeddings
+from langchain_community.embeddings import HuggingFaceInstructEmbeddings
 from langchain_community.vectorstores import FAISS
 
 def get_pdf_text(pdf_docs):
