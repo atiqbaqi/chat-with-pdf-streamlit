@@ -1,6 +1,10 @@
 Create a virtual environment
 ```
-python -m venv venv
+python -m venv .venv
+```
+activate the virtual environment
+```
+.\.venv\Scripts\activate
 ```
 
 Then install dependencies
