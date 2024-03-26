@@ -1,4 +1,7 @@
-# Project installation
+# Introduction
+In this project a user can upload multiple PDF and can chat with its content.
+
+## Project installation
 
 Create a virtual environment
 ```
@@ -21,6 +24,6 @@ The frontend of this project is done using `streamlit`. TO run the application u
 streamlit run app.py
 ```
 
-# How it works
+## How it works
 ![image](https://github.com/atiqbaqi/chat-with-pdf-streamlit/assets/73009994/d7e5475d-9adc-40de-af67-c1fadd173fdf)
 
