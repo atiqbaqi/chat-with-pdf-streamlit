@@ -20,7 +20,7 @@ Then install dependencies
 ```
 pip install -r requirements.txt
 ```
-After that create `.env` file in your project for secret API keys for OpenAI or HuggingFace. Get API keys from respective platform. You have to follow the API key naming convention, for OpenAI its `OPENAI_API_KEY` and for HuggingFace `HUGGINGFACEHUB_API_TOKEN`.
+After that create `.env` file in your project for secret API keys for OpenAI or HuggingFace. Get your API keys from respective platform using your account. You have to follow the API key naming convention, for OpenAI its `OPENAI_API_KEY` and for HuggingFace `HUGGINGFACEHUB_API_TOKEN`.
 
 The frontend of this project is done using `streamlit`. TO run the application use following command
 ```
