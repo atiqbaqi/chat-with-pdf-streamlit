@@ -1,5 +1,5 @@
 # Introduction
-In this project a user can upload multiple PDF and can chat with its content.
+In this project a user can upload multiple PDF and can chat with its content using `Langchain` framework.
 
 ![image](https://github.com/atiqbaqi/chat-with-pdf-streamlit/assets/73009994/12dc9aab-1743-44e4-bba8-158f12575ade)
 
